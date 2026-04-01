@@ -1,8 +1,8 @@
-# Privacy Policy for top100
+# Privacy Policy for Top100
 
 **Last Updated:** March 2026
 
-Welcome to top100. This Privacy Policy explains how our application collects, uses, and protects your data. By using the app, you agree to the data practices described in this directive.
+Welcome to Top100. This Privacy Policy explains how our application collects, uses, and protects your data. By using the app, you agree to the data practices described in this directive.
 
 ## 1. Data Collection & Usage
 
