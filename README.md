@@ -31,4 +31,4 @@ Activating this feature will permanently obliterate the following from our activ
 
 ## 4. Contact Us
 
-If you have any questions or concerns about this Privacy Policy or how your data is handled, please reach out to our development team. top100dev@gmail.com
+If you have any questions or concerns about this Privacy Policy or how your data is handled, please reach out to our development team. **support@top100trivia.com**
